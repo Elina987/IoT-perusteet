@@ -1,4 +1,6 @@
-# Luento 2 
+# Luento 2  
+
+-------------
 
 ## 🖥️ LCDScreen
 Ohjelma kirjoittaa näytölle tervehdystekstin kun se käynnistetään. Sitä varten ladattu kaksi tiedostoa GitHubista.
