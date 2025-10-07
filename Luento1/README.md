@@ -8,9 +8,9 @@ Sisältää MicroPythonilla toteutettuja harjoituksia Raspberry Pi Picolla. Tote
  Nappia painettaessa LED valo syttyy, ja kun nappi vapautetaan se sammuu. 
 
 ## 🚦 Traffic lights 
-Yksinkertainen liikennevalojen ohjaus. Liikennevalot syttyvät vuorotellen ja palavat tietyn ajan. 
-🔴 Punainen valo: 2 sekuntia 
-🟡 Keltainen valo: 2 sekuntia 
+Yksinkertainen liikennevalojen ohjaus. Liikennevalot syttyvät vuorotellen ja palavat tietyn ajan.  
+🔴 Punainen valo: 2 sekuntia  
+🟡 Keltainen valo: 2 sekuntia  
 🟢 Vihreä valo: 5 sekuntia
 
 ## 🌡️ Weather station
