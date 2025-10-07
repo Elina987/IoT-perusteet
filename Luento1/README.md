@@ -18,6 +18,6 @@ Yksinkertainen liikennevalojen ohjaus. Liikennevalot syttyvät vuorotellen ja pa
 Ohjelma lukee kosteuden ja lämpötilan ja ilmoittaa ne kahden sekunnin välein.
 Jos lukeminen epäonnistuu, ohjelma ilmoittaa virheestä.
 
-## 🎮 Interrupt- Reaction time
+## 🎮 Interrupt - Reaction time
 Led syttyy pelin alkaessa. Kun LED sammuu, tulee nappia painaa mahdollisimmaan nopeasti.
 Ohjelma mittaa ja kertoo reaktioajan millisekunneissa.
